@@ -3,7 +3,8 @@
 **Founder & Technical Lead of VapeTrade.de**  
 Web Developer • E-Commerce Engineer • Automation • API Development • Shopware 6 • SEO Engineering
 
-Ich bin der Gründer und technische Leiter von **VapeTrade.de**, einem spezialisierten E-Commerce-System für E-Zigaretten, Liquids und Zubehör.  
+Ich bin der Gründer und technische Leiter von **VapeTrade.de**, einem spezialisierten E-Commerce-System für E-Zigaretten, Liquids und Zubehör.
+
 Seit 15+ Jahren entwickle ich Weblösungen, Automatisierungen, APIs, Shopware-Integrationen und Performance-Optimierungen.
 
 Meine Schwerpunkte:
