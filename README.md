@@ -19,7 +19,7 @@ Meine Schwerpunkte:
 Mehr über mich:
 
 ➡️ https://borban.de
-➡️ https://www.vapetrade.de  
-➡️ https://blog.vapetrade.de/autor/  
-➡️ https://about.me/vapetrade  
+➡️ https://www.vapetrade.de
+➡️ https://blog.vapetrade.de/autor/
+➡️ https://about.me/vapetrade
 ➡️ https://www.linkedin.com/in/copho/
