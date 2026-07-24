@@ -16,9 +16,9 @@ Meine Schwerpunkte:
 - Frontend- und Backend-Development  
 - E-Commerce Analyse & Conversion-Optimierung  
 
-Mehr über mich:  
+Mehr über mich:
+➡️ https://borban.de
 ➡️ https://www.vapetrade.de  
 ➡️ https://blog.vapetrade.de/autor/  
-➡️ https://e-zigaretten.org/autor/  
 ➡️ https://about.me/vapetrade  
-➡️ https://www.linkedin.com/in/borisbanaszak/
+➡️ https://www.linkedin.com/in/copho/
