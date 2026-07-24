@@ -17,6 +17,7 @@ Meine Schwerpunkte:
 - E-Commerce Analyse & Conversion-Optimierung  
 
 Mehr über mich:
+
 ➡️ https://borban.de
 ➡️ https://www.vapetrade.de  
 ➡️ https://blog.vapetrade.de/autor/  
